@@ -7,7 +7,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/shelemiah/secure_chat/pkg/network"
+	"github.com/opensourceghana/securechat/pkg/network"
 )
 
 func main() {

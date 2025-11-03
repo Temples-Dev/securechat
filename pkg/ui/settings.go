@@ -6,7 +6,7 @@ import (
 
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
-	"github.com/shelemiah/secure_chat/internal/config"
+	"github.com/opensourceghana/securechat/internal/config"
 )
 
 // SettingsView represents the settings interface

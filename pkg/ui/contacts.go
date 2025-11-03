@@ -6,8 +6,8 @@ import (
 
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
-	"github.com/shelemiah/secure_chat/internal/config"
-	"github.com/shelemiah/secure_chat/internal/models"
+	"github.com/opensourceghana/securechat/internal/config"
+	"github.com/opensourceghana/securechat/internal/models"
 )
 
 // ContactsView represents the contacts management interface

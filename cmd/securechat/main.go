@@ -9,9 +9,9 @@ import (
 	"time"
 
 	tea "github.com/charmbracelet/bubbletea"
-	"github.com/shelemiah/secure_chat/internal/config"
-	"github.com/shelemiah/secure_chat/pkg/core"
-	"github.com/shelemiah/secure_chat/pkg/ui"
+	"github.com/opensourceghana/securechat/internal/config"
+	"github.com/opensourceghana/securechat/pkg/core"
+	"github.com/opensourceghana/securechat/pkg/ui"
 )
 
 var (

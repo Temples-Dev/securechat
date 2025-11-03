@@ -19,10 +19,10 @@ A minimal, secure, terminal-based chat application designed for developers who w
 
 ```bash
 # Install from source
-go install github.com/shelemiah/secure_chat/cmd/securechat@latest
+go install github.com/opensourceghana/securechat/cmd/securechat@latest
 
 # Or download binary from releases
-curl -L https://github.com/shelemiah/secure_chat/releases/latest/download/securechat-linux-amd64 -o securechat
+curl -L https://github.com/opensourceghana/securechat/releases/latest/download/securechat-linux-amd64 -o securechat
 chmod +x securechat
 ```
 
@@ -124,7 +124,7 @@ security:
 
 ```bash
 # Clone the repository
-git clone https://github.com/shelemiah/secure_chat.git
+git clone https://github.com/opensourceghana/securechat.git
 cd secure_chat
 
 # Install dependencies

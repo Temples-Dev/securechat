@@ -5,11 +5,11 @@ import (
 	"log"
 	"time"
 
-	"github.com/shelemiah/secure_chat/internal/config"
-	"github.com/shelemiah/secure_chat/internal/models"
-	"github.com/shelemiah/secure_chat/pkg/crypto"
-	"github.com/shelemiah/secure_chat/pkg/network"
-	"github.com/shelemiah/secure_chat/pkg/storage"
+	"github.com/opensourceghana/securechat/internal/config"
+	"github.com/opensourceghana/securechat/internal/models"
+	"github.com/opensourceghana/securechat/pkg/crypto"
+	"github.com/opensourceghana/securechat/pkg/network"
+	"github.com/opensourceghana/securechat/pkg/storage"
 )
 
 // App represents the core SecureChat application

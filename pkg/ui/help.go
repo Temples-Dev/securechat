@@ -5,7 +5,7 @@ import (
 
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
-	"github.com/shelemiah/secure_chat/internal/config"
+	"github.com/opensourceghana/securechat/internal/config"
 )
 
 // HelpView represents the help interface
@@ -429,7 +429,7 @@ func buildHelpSections() []HelpSection {
 				"• Update terminal emulator",
 				"",
 				"Getting Help:",
-				"• Check GitHub issues: github.com/shelemiah/secure_chat",
+				"• Check GitHub issues: github.com/opensourceghana/securechat",
 				"• Read documentation: docs.securechat.dev",
 				"• Join community chat (coming soon)",
 				"",

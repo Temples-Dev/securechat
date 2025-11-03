@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/dgraph-io/badger/v4"
-	"github.com/shelemiah/secure_chat/internal/models"
+	"github.com/opensourceghana/securechat/internal/models"
 )
 
 // Storage provides persistent storage for SecureChat
